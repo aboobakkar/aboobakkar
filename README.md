@@ -4,13 +4,12 @@
 ## I'm a Developer, Tech Enthuasist and Reader, I love Building Applications for social services!!
 
 
-- 🔭 I’m currently working on ... ReactNative & Javascript, React Projects and OpenSource
+- 🔭 I’m currently working on ... React Js, Javascript.
 - 🌱 I’m currently learning ... everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🤔 I’m looking for help with learning how to use OpenSource forums
 - 💬 Ask me about anything in tech I bet I will answer 😂 
 - ⚡ Fun fact: I love photography, cooking, traveling, and coding
-- 🎸 Would love: To know how to edit photograph using adobe
 
 
 
